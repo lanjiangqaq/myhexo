@@ -29,7 +29,7 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^1.0.0",
     "hexo-theme-redefine": "^2.4.4",
-    "hexo-theme-yun": "^1.10.9",
+    "hexo-theme-yun": "^1.10.11",
     "shelljs": "^0.8.5"
   }
 }
